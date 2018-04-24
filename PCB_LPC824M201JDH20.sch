@@ -133,7 +133,7 @@ F 3 "" H 5650 3900 50  0001 C CNN
 	1    5650 3900
 	1    0    0    -1  
 $EndComp
-Text GLabel 4900 3900 0    60   Input ~ 0
+Text GLabel 4750 3900 0    60   Input ~ 0
 LED
 Text GLabel 4300 2800 2    60   Input ~ 0
 PIO0_17
@@ -390,4 +390,12 @@ Text GLabel 3450 1000 2    60   Input ~ 0
 VDD
 Connection ~ 3300 1000
 Connection ~ 3300 1200
+Text GLabel 4750 4150 0    60   Input ~ 0
+PIO0_23
+Wire Wire Line
+	4750 3900 4900 3900
+Wire Wire Line
+	4750 4150 4900 4150
+Wire Wire Line
+	4900 4150 4900 3900
 $EndSCHEMATC
