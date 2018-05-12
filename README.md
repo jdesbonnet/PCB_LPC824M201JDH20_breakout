@@ -11,6 +11,8 @@ Features:
  
 ![3D render front](./PCB_LPC824M201JDH20_front.jpg)
 ![3D render back](./PCB_LPC824M201JDH20_back.jpg)
+![photo front].(./PCB_LPC824M201JDH20_photo_front.jpg)
+
 
 
 ## History
